@@ -1,0 +1,10 @@
+<div id="navbar" class="color-primary-0">
+
+<img id="logo" src="assets/logo.png"/>
+
+<nav>
+    <a *ngFor="let button of buttons" routerLink={{button.route}}
+        class="nav-button"
+        [class.active]="button === selectedButton()">{{button.label}}</a>
+</nav>
+</div>

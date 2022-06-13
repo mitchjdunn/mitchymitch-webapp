@@ -1,0 +1,29 @@
+#logo {
+    width: 50px;
+    height: 50px;
+    
+}
+
+#navbar{
+    padding: 1rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: left;
+    background-color: #226666;
+}
+
+
+nav {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.nav-button {
+    padding: 1rem;
+    background-color: #226666;
+}
+.active {
+
+    background-color: #7afdfd;
+}
