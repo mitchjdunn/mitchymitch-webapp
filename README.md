@@ -1,6 +1,8 @@
-# Webapp
+# MithcyMitch-Webapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+
+This is my first attempt toiling around with angular.  This will be a general purpose hub for my own uses.
 
 ## Development server
 
